@@ -2,7 +2,7 @@ import firebase_admin
 from firebase_admin import credentials, db, auth
 
 import firebase_admin
-from firebase_admin import credentials, db, auth
+from firebase_admin import credentials, db
 import streamlit as st
 
 def init_firebase():
